@@ -28,7 +28,7 @@ This Python GUI application provides a visual demonstration of various sorting a
 1. Clone the repository:
 
     ```bash
-    https://github.com/ankitkumar131/sorting-algorithm-visualize.git
+    https://github.com/ankitkumar131/sorting-algorithm-visualizer.git
     ```
 
 2. Navigate to the project directory:
@@ -76,12 +76,9 @@ goto assets/video folder to see
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to the branch.
 5. Create a new Pull Request.
 
-## License
-
-[Choose an open-source license and add it here. For example: MIT License]
 
