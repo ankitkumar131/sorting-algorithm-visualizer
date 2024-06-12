@@ -58,10 +58,7 @@ This Python GUI application provides a visual demonstration of various sorting a
 
 ## Video
 
-<video width="640" height="360" controls>
-  <source src="assets\video\video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+goto assets/video folder to see
 
 
 
