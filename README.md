@@ -1,3 +1,4 @@
+
 # Sorting Algorithm Visualizer
 
 This Python GUI application provides a visual demonstration of various sorting algorithms. It allows users to generate random arrays and visualize how different sorting algorithms rearrange the elements to sort the array.
