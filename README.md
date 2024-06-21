@@ -5,6 +5,7 @@ This Python GUI application provides a visual demonstration of various sorting a
 
 ## Features
 
+
 - Graphical User Interface (GUI) using tkinter.
 - Real-time visualization of sorting algorithms.
 - Supports multiple sorting algorithms:
